@@ -1,0 +1,5 @@
+node/*
+node_modules/*
+temp/*
+emailApp-dist.min.js
+libraries.min.js

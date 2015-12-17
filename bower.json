@@ -1,0 +1,17 @@
+{
+  "name": "EmailApp",
+  "version": "1.0.0",
+  "authors": [
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.3",
+    "angular": "~1.4.8",
+    "angular-sanitize": "~1.4.8",
+    "angular-route": "~1.4.8"
+  },
+  "devDependencies": {
+    "bardjs": "~0.1.8"
+  }
+}

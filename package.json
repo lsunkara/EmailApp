@@ -1,0 +1,15 @@
+{
+  "name": "EmailApp",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jasmine": "^0.9.2",
+    "grunt-contrib-uglify": "^0.11.0"
+  }
+}
