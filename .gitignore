@@ -5,3 +5,4 @@ emailApp-dist.min.js
 libraries.min.js
 .grunt/*
 _SpecRunner.html
+src/main/webapp/resources/lib/*
