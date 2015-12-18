@@ -3,9 +3,10 @@ describe('Email controller', function(){
     beforeEach(function(){
         bard.appModule('EmailApp');
         bard.inject('$controller','$rootScope');
-        controller = $controller('EmailCtrl', {})
+        controller = $controller('EmailCtrl');
+        $rootScope.$apply();
     });
-    describe('should initilize title', function(){
+    it('should initilize title', function(){
         expect(controller.title).toEqual('Loading...')
     });
 });

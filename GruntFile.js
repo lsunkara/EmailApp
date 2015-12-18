@@ -76,7 +76,7 @@ module.exports = function(grunt) {
                         'src/main/webapp/resources/lib/sinon/*.js',
                         'src/main/webapp/resources/email/emailApp-dist.min.js'
                     ],
-                    specs: 'temp/jasmine-spec.js',
+                    specs: 'temp/jasmine-specs.js',
                     keepRunner: true
                 }
             }
